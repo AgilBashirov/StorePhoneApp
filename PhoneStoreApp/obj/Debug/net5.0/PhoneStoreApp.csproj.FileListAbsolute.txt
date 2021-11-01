@@ -1,0 +1,16 @@
+C:\Users\agilab\source\repos\PhoneStoreApp\PhoneStoreApp\bin\Debug\net5.0\PhoneStoreApp.exe
+C:\Users\agilab\source\repos\PhoneStoreApp\PhoneStoreApp\bin\Debug\net5.0\PhoneStoreApp.deps.json
+C:\Users\agilab\source\repos\PhoneStoreApp\PhoneStoreApp\bin\Debug\net5.0\PhoneStoreApp.runtimeconfig.json
+C:\Users\agilab\source\repos\PhoneStoreApp\PhoneStoreApp\bin\Debug\net5.0\PhoneStoreApp.runtimeconfig.dev.json
+C:\Users\agilab\source\repos\PhoneStoreApp\PhoneStoreApp\bin\Debug\net5.0\PhoneStoreApp.dll
+C:\Users\agilab\source\repos\PhoneStoreApp\PhoneStoreApp\bin\Debug\net5.0\ref\PhoneStoreApp.dll
+C:\Users\agilab\source\repos\PhoneStoreApp\PhoneStoreApp\bin\Debug\net5.0\PhoneStoreApp.pdb
+C:\Users\agilab\source\repos\PhoneStoreApp\PhoneStoreApp\obj\Debug\net5.0\PhoneStoreApp.csproj.AssemblyReference.cache
+C:\Users\agilab\source\repos\PhoneStoreApp\PhoneStoreApp\obj\Debug\net5.0\PhoneStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agilab\source\repos\PhoneStoreApp\PhoneStoreApp\obj\Debug\net5.0\PhoneStoreApp.AssemblyInfoInputs.cache
+C:\Users\agilab\source\repos\PhoneStoreApp\PhoneStoreApp\obj\Debug\net5.0\PhoneStoreApp.AssemblyInfo.cs
+C:\Users\agilab\source\repos\PhoneStoreApp\PhoneStoreApp\obj\Debug\net5.0\PhoneStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\agilab\source\repos\PhoneStoreApp\PhoneStoreApp\obj\Debug\net5.0\PhoneStoreApp.dll
+C:\Users\agilab\source\repos\PhoneStoreApp\PhoneStoreApp\obj\Debug\net5.0\ref\PhoneStoreApp.dll
+C:\Users\agilab\source\repos\PhoneStoreApp\PhoneStoreApp\obj\Debug\net5.0\PhoneStoreApp.pdb
+C:\Users\agilab\source\repos\PhoneStoreApp\PhoneStoreApp\obj\Debug\net5.0\PhoneStoreApp.genruntimeconfig.cache
